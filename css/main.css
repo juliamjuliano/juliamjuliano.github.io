@@ -15,6 +15,10 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
+img.avatar { margin-bottom: 30px; }
+.marketing p { line-height: 25px; }
+.marketing p.lead { line-height: 30px; }
+
 a {
     text-decoration: none;
     color: #999;
